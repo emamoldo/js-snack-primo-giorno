@@ -1,5 +1,8 @@
 // Esercizio 1:
 
-let number= 100
-console.log(number)
+const number= 100  //number
+console.log(number)  //  
 
+//Esercizio 2 
+let PI= 3.14
+console.log(PI)
