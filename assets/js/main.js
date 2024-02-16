@@ -19,3 +19,8 @@ console.log(PI) //print
 const radius= 8 //number
 let circle= radius *PI *2 //molt
 console.log(circle) //print
+
+//Esercizio 3
+let name= "Carlo" //string
+name="Marco"      //string  
+console.log(name) //print
